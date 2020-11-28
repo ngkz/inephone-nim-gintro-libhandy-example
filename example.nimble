@@ -3,7 +3,7 @@
 version       = "0.1.0"
 author        = "Kazutoshi Noguchi"
 description   = "libhandy example.py ported to nim"
-license       = "CC0-1.0"
+license       = "MIT"
 srcDir        = "src"
 bin           = @["example_py"]
 
