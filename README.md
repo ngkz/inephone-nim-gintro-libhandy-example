@@ -1,4 +1,4 @@
-# nim + ginteo + libhandy example
+# nim + gintro + libhandy example
 ![Screenshot](screenshot.png)
 
 ## How to build
